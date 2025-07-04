@@ -1,6 +1,6 @@
 # 🎧 Spotify Track Analysis Dashboard
 
-<img width="567" alt="dashboard" src="https://github.com/user-attachments/assets/e9dd35d3-3c98-4892-8db7-1a2fcc64d82c" />
+<img width="1200" alt="dashboard" src="https://github.com/user-attachments/assets/e9dd35d3-3c98-4892-8db7-1a2fcc64d82c" />
 
 
 ##  Overview
