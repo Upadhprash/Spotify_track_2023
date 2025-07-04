@@ -95,6 +95,6 @@ Use this dashboard to:
 ---
 
 
-## 🧑‍💻 Author
+##  Author
 
 **Prashanta Upadhyay**  
